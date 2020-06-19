@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+.cover{
+  background: url(https://ferret.akamaized.net/images/566d919d69702d1b6e520000/original.jpeg?1450021276);
+  background-size: cover;
+}
